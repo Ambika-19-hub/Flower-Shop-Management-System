@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Flower-Shop-Management-System/static/css/main.e6c13ad2.css",
+    "main.js": "/Flower-Shop-Management-System/static/js/main.962dc9d8.js",
+    "static/js/453.4d26316b.chunk.js": "/Flower-Shop-Management-System/static/js/453.4d26316b.chunk.js",
+    "static/media/home.png": "/Flower-Shop-Management-System/static/media/home.e3ec8e82fe10f112179c.png",
+    "static/media/rose.png": "/Flower-Shop-Management-System/static/media/rose.ab0744cb5373f31514e0.png",
+    "static/media/lily.png": "/Flower-Shop-Management-System/static/media/lily.45d7ccd19f62d7e5ed5a.png",
+    "static/media/tulip.png": "/Flower-Shop-Management-System/static/media/tulip.7ea8ef135419d8a898a5.png",
+    "static/media/lotus.png": "/Flower-Shop-Management-System/static/media/lotus.8d4bd431929396ba4a37.png",
+    "index.html": "/Flower-Shop-Management-System/index.html",
+    "main.e6c13ad2.css.map": "/Flower-Shop-Management-System/static/css/main.e6c13ad2.css.map",
+    "main.962dc9d8.js.map": "/Flower-Shop-Management-System/static/js/main.962dc9d8.js.map",
+    "453.4d26316b.chunk.js.map": "/Flower-Shop-Management-System/static/js/453.4d26316b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.962dc9d8.js"
+  ]
+}
