@@ -48,7 +48,7 @@ function Flowers() {
               <b>Status: </b>
               <span
                 style={{
-                  color: flower.status === "Available" ? "green" : "orange",
+                  color: flower.status === "Available" ? "green" : "orange",                                                       //CONDITIONAL RENDERING
                   fontWeight: "bold"
                 }}
               >
@@ -57,7 +57,7 @@ function Flowers() {
             </p>
 
             {flower.status === "Available" ? (
-              <Link to="/adoption" state={{ flowerName: flower.name }}>
+              <Link to="/Order" state={{ flowerName: flower.name }}>   //LINKING
                 <button
                   style={{
                     marginTop: "10px",
